@@ -440,17 +440,22 @@ ul{
 }
 .flip-container{
   	width:287px;
-
+	height:auto;
+	padding: 16% 0;
 }
 .trump1{
 	z-index:2;
 	transform: rotateY(0deg);
 	width:286px;
+	height: auto;
+	padding: 67% 0;
   	background-size:100% 100%;
 	box-shadow: 9px 12px 40px 0px #000
 }
 .trump2 {
 	width:286px;
+	height: auto;
+	padding: 67% 0;
 	transform: rotateY(180deg);
 	background-size:100% 100%;
 	box-shadow: 9px 12px 40px 0px #000
