@@ -1193,6 +1193,7 @@ ul{
 		display: none;
 	}
 	#container2 .title{
+		display:block;
 		color:#000;
 		text-align: center;
 		width:30%;
