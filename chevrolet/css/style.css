@@ -47,7 +47,7 @@ ul{
 .headerIn .gnb li a{}
 .headerIn .gnb.gnb01{
 	float: left;
-	width:38%;
+	width:380px;
 }
 .headerIn .gnb.gnb01 li{
 	margin-right: 19px;
@@ -57,7 +57,7 @@ ul{
 }
 .headerIn .gnb.gnb02{
 	float: right;
-	width:38%;	
+	width:380px;	
 }
 .headerIn .gnb.gnb02 li{
 	margin-left: 20px;
