@@ -52,7 +52,17 @@ ul{
 .headerIn .gnb.gnb01 li{
 	margin-right: 19px;
 }
+.headerIn .gnb.gnb01 li:nth-child(1){
+	width:51.53px;
+}
+.headerIn .gnb.gnb01 li:nth-child(2){
+	width:87.14px;
+}
+.headerIn .gnb.gnb01 li:nth-child(3){
+	width:122.22px;
+}
 .headerIn .gnb.gnb01 li:last-child{
+	width:51.52px;
 	margin-right: 0;
 }
 .headerIn .gnb.gnb02{
@@ -61,6 +71,18 @@ ul{
 }
 .headerIn .gnb.gnb02 li{
 	margin-left: 20px;
+}
+.headerIn .gnb.gnb02 li:nth-child(1){
+	width:106.19px;
+}
+.headerIn .gnb.gnb02 li:nth-child(2){
+	width:67.54px;
+}
+.headerIn .gnb.gnb02 li:nth-child(3){
+	width:75.04px;
+}
+.headerIn .gnb.gnb02 li:nth-child(4){
+	width:37.03px;
 }
 .headerIn .logo{
 	position: absolute;
